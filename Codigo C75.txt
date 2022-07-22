@@ -131,6 +131,5 @@ const styles = StyleSheet.create({
         Alert.alert(error.message);
       });
   };
-render(){
 
 
